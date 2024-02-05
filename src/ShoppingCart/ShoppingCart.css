@@ -1,0 +1,16 @@
+.shopping-cart {
+    width:100%;
+}
+
+li {
+    display: block;
+    margin-bottom: 10px;
+}
+
+.shopping-cart__input {
+    margin:  10px 10px 50px;
+}
+
+.shopping-cart__total {
+    font-weight: 700;
+}
